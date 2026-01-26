@@ -1,4 +1,4 @@
-This is the repository of the short course on **Uncertainty Quantification for Computational Predictive Modeling**, taught by Prof. Americo Cunha Jr (LNCC & UERJ) at the University of Trento in January 2026.
+This is the repository of the short course on **Uncertainty Quantification for Computational Predictive Science**, taught by Prof. Americo Cunha Jr (LNCC & UERJ) at the University of Trento in January 2026.
 
 Slides of lectures, references, and codes used in the computational activities are available here.
 
@@ -20,4 +20,4 @@ https://www.youtube.com/live/yaXLdkRm55s?si=S8O5Kztq7glFb3aJ
 
 This course material may be shared under the terms of Creative Commons BY-NC-ND 4.0 license, for educational purposes only.
 
-<img src="logos/CC-BY-NC-ND-40.png" width="20%">
+<img src="logos/CC-BY-NC-ND.png" width="20%">
